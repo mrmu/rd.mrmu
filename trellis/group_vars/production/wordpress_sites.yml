@@ -5,7 +5,7 @@
 wordpress_sites:
   rd.mrmu.com.tw:
     site_hosts:
-      - canonical: rd.mrmu.com.tw:
+      - canonical: rd.mrmu.com.tw
 #        redirects:
 #          - www.example.com
     local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
